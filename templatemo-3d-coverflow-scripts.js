@@ -56,20 +56,20 @@ https://templatemo.com/tm-595-3d-coverflow
                 description: "SSomething to putt on your desk"
             },
             {
-                title: "Ocean Sunset",
-                description: "Golden hour over endless ocean waves"
+                title: "LED Mask",
+                description: "Interactive Mask to make people see your expressions"
             },
             {
-                title: "Desert Dunes",
-                description: "Rolling sand dunes under vast blue skies"
+                title: "Custom Cordless Drill",
+                description: "Custom Battery forr a cordless Drill"
             },
             {
-                title: "Starry Night",
-                description: "Countless stars illuminating the dark sky"
+                title: "LED Mask",
+                description: "Interactive Mask to make people see your expressions"
             },
             {
-                title: "Waterfall",
-                description: "Cascading water through lush green forest"
+                title: "3D printer",
+                description: "Just a machine that sill transform your idea into a reality"
             }
         ];
 
